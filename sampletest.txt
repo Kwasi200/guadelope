@@ -1,1 +1,5 @@
+
 let's develope them for now as they're our future
+Testing reset commit 1
+:wq!
+
