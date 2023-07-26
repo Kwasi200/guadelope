@@ -1,1 +1,11 @@
+<<<<<<< Updated upstream
 This is a Git Stash lecture, Change is Main file
+=======
+1.Briefly introduce yourself
+2. Have you prepared the powerpoint presentation?
+ Please go ahead and make a presentation.
+3. what happens when you type a url address ?
+4. Could you briefly explain the role of a Technical Architect ?
+5. can you explain what PaaS, SaaS?
+
+>>>>>>> Stashed changes
